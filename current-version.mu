@@ -1,14 +1,13 @@
 #!c=0
 #meshage-update v1
-#version=0.4.9
-#version_code=23
-#build=775e6e76
-#build_epoch=1794538406
-#apk_bytes=61564652
->meshage 0.4.9
-`F61b⊳`f Build 775e6e76
-`F61b⊳`f 2026-11-13 02:53 UTC
-`F61b⊳`f 58.7 MB
+#version=0.4.10
+#version_code=24
+#build=13448fc7
+#build_epoch=1795271802
+#apk_bytes=62150512
+>meshage 0.4.10
+`F61b⊳`f 2026-11-21 14:36 UTC
+`F61b⊳`f 59.3 MB
 
-`FcaF`_`[Download over the mesh`:/file/meshage.apk]`_`f
-`FcaF`_`[Download from the web`https://meshage.me/apk/arm64/meshage.apk]`_`f
+`[Mesh download`c065d5a129be605978dcc0e4137754ff:/file/meshage.apk]
+`[Web download`https://github.com/meshage-me/meshage-community/releases/download/v0.4.10/meshage-arm64.apk]
