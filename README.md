@@ -11,9 +11,9 @@ With a custom mobile-first Nomad browser and support for RRC Hubs and MeshCore R
 Meshage is free (as in beer) and eagerly contributes back to the open-source foundations it stands upon.
 
 ## How to Use This Repo
-* **Install:** [Choose your download link](#download-meshage), or [browse the releases](https://github.com/slack-space/meshage-community/releases).
-* **Submit Bugs/Feedback:** [Open an Issue](https://github.com/slack-space/meshage-community/issues/new/choose) to report bugs, provide feedback, or submit specific feature requests.
-* **Discussions:** Ask questions, share ideas, and connect with the community in the [Discussions board](https://github.com/slack-space/meshage-community/discussions).
+* **Install:** [Choose your download link](#download-meshage), or [browse the releases](https://github.com/meshage-me/meshage-community/releases).
+* **Submit Bugs/Feedback:** [Open an Issue](https://github.com/meshage-me/meshage-community/issues/new/choose) to report bugs, provide feedback, or submit specific feature requests.
+* **Discussions:** Ask questions, share ideas, and connect with the community in the [Discussions board](https://github.com/meshage-me/meshage-community/discussions).
 
 # Download Meshage!
 <div style="text-align: center">
@@ -24,7 +24,7 @@ Meshage is free (as in beer) and eagerly contributes back to the open-source fou
 <br/>
 <a href="https://meshage.me/obtainium">
   <img src="https://meshage.me/assets/badges/obtainium.png" alt="Alt text" width="150"></a>
-<a href="https://github.com/slack-space/meshage-community/releases">
+<a href="https://github.com/meshage-me/meshage-community/releases">
   <img src="https://meshage.me/assets/badges/download-meshage-github.png" alt="Alt text" width="150"></a>
 <a href="https://meshage.me/apk/arm64/meshage.apk">
   <img src="https://meshage.me/assets/badges/download-meshage-web.png" alt="Alt text" width="150"></a>
