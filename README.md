@@ -5,17 +5,17 @@ Meshage is a multi-mesh mobile messaging app for Reticulum and Meshcore. Meshage
 
 <div align="center">
 <a href="https://play.google.com/store/apps/details?id=me.meshage.app">
-  <img src="https://meshage.me/assets/badges/google-play.png" alt="Alt text" width="75"></a>
+  <img src="https://meshage.me/assets/badges/google-play.png" alt="Alt text" width="125"></a>
 <a href="#">
-  <img src="https://meshage.me/assets/badges/appStore-soon.png" alt="Alt text" width="75"></a>
+  <img src="https://meshage.me/assets/badges/appStore-soon.png" alt="Alt text" width="125"></a>
 <a href="https://meshage.me/obtainium">
-  <img src="https://meshage.me/assets/badges/obtainium.png" alt="Alt text" width="75"></a>
+  <img src="https://meshage.me/assets/badges/obtainium.png" alt="Alt text" width="125"></a>
 <a href="https://github.com/meshage-me/meshage-community/releases">
-  <img src="https://meshage.me/assets/badges/download-meshage-github.png" alt="Alt text" width="75"></a>
+  <img src="https://meshage.me/assets/badges/download-meshage-github.png" alt="Alt text" width="125"></a>
 <a href="https://meshage.me/apk/arm64/meshage.apk">
-  <img src="https://meshage.me/assets/badges/download-meshage-web.png" alt="Alt text" width="75"></a>
+  <img src="https://meshage.me/assets/badges/download-meshage-web.png" alt="Alt text" width="125"></a>
 <a href="nomadnetwork://c065d5a129be605978dcc0e4137754ff:/file/meshage.apk">
-  <img src="https://meshage.me/assets/badges/download-meshage-mesh.png" alt="Alt text" width="75"></a>
+  <img src="https://meshage.me/assets/badges/download-meshage-mesh.png" alt="Alt text" width="125"></a>
 </div>
 
 ## How to Use This Repo
