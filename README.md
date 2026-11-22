@@ -26,10 +26,10 @@ Meshage is a multi-mesh mobile messaging app for Reticulum and Meshcore. Meshage
 ## About the App
 
 <div align="center">
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/1_interfaces.png" width="150" />
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/2_People.png" width="150" />
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/3_chats.png" width="150" />
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/4_convo.png" width="150" />  
+  <img style="margin:0px 15px" src="screenshots/android/1_interfaces.png" width="150" />
+  <img style="margin:0px 15px" src="screenshots/android/2_People.png" width="150" />
+  <img style="margin:0px 15px" src="screenshots/android/3_chats.png" width="150" />
+  <img style="margin:0px 15px" src="screenshots/android/4_convo.png" width="150" />  
 </div>
 
 Meshage orders the multiple-mesh, many-identity, several-nodes-per-person reality of mesh networking behind a single contact card. The Unified Person view and Verified Identity Claiming is thoughtfully included in a simplified, person-first UI that you don't have to be geek to love.
@@ -37,10 +37,10 @@ Meshage orders the multiple-mesh, many-identity, several-nodes-per-person realit
 With a custom mobile-first Nomad browser and support for RRC Hubs and MeshCore Room Servers, users can engage fully with their mesh community.
 
 <div align="center">
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/5_explore-bookmarks.png" width="150" />
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/6_explore-discover.png" width="150" />
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/7_browse.png" width="150" />
-  <img style="margin: .25em; border: 1px solid #969eb9" src="screenshots/android/8_me.png" width="150" />  
+  <img style="margin:0px 15px" src="screenshots/android/5_explore-bookmarks.png" width="150" />
+  <img style="margin:0px 15px" src="screenshots/android/6_explore-discover.png" width="150" />
+  <img style="margin:0px 15px" src="screenshots/android/7_browse.png" width="150" />
+  <img style="margin:0px 15px" src="screenshots/android/8_me.png" width="150" />  
 </div>
 
 ## About the Developer
