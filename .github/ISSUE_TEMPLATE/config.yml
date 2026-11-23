@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/meshage-me/meshage-community/discussions/categories/q-a
+    about: Setup help and how-to questions.
+  - name: Suggest an idea
+    url: https://github.com/meshage-me/meshage-community/discussions/categories/ideas
+    about: Feature ideas other people can vote on.

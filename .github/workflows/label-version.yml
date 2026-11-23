@@ -1,0 +1,44 @@
+# Labels an issue filed in the browser with its kind and the version it was
+# filed against. A prefilled new-issue URL can't carry labels for someone
+# without triage rights, and MeshageBot labels its own issues (via-app).
+name: Label version
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+
+jobs:
+  label:
+    if: ${{ !contains(github.event.issue.labels.*.name, 'via-app') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v9
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const body = issue.body || '';
+            const have = new Set(issue.labels.map((l) => l.name));
+            const want = [];
+
+            // Issue forms render each field as "### <label>" then its value.
+            const version = body.match(/^### Version\s*\n+\s*v?(\d+\.\d+\.\d+)/m);
+            if (version) {
+              const name = `v${version[1]}`;
+              try {
+                await github.rest.issues.getLabel({ ...context.repo, name });
+              } catch (error) {
+                if (error.status !== 404) throw error;
+                await github.rest.issues.createLabel({ ...context.repo, name, color: 'c5def5' });
+              }
+              want.push(name);
+            }
+            if (/^### What happened\s*$/m.test(body)) want.push('bug');
+            if (/^### Feedback\s*$/m.test(body)) want.push('feedback');
+
+            const missing = want.filter((name) => !have.has(name));
+            if (missing.length) {
+              await github.rest.issues.addLabels({ ...context.repo, issue_number: issue.number, labels: missing });
+            }
