@@ -20,7 +20,7 @@ Meshage is a multi-mesh mobile messaging app for Reticulum and Meshcore. Meshage
 
 ## How to Use This Repo
 * **Install:** [Choose your download link](#download-meshage), or [browse the releases](https://github.com/meshage-me/meshage-community/releases).
-* **Submit Bugs/Feedback:** [Open an Issue](https://github.com/meshage-me/meshage-community/issues/new/choose) to report bugs, provide feedback, or submit specific feature requests.
+* **Submit Bugs/Feedback:** In the app, use **Bug Report** in the menu. **Send to MeshageBot** needs no GitHub account: the meshage team checks each report before it's public here, and MeshageBot keeps you posted in its chat. Or [open an Issue](https://github.com/meshage-me/meshage-community/issues/new/choose) yourself, then send MeshageBot `follow #N` in meshage for updates on it.
 * **Discussions:** Ask questions, share ideas, and connect with the community in the [Discussions board](https://github.com/meshage-me/meshage-community/discussions).
 
 ## About the App

@@ -6,6 +6,8 @@ body:
     attributes:
       value: |
         This issue is public as soon as you post it. Leave out names, addresses and message text you wouldn't post openly.
+
+        For updates in meshage, send MeshageBot `follow #N` with this issue's number once it's posted. No GitHub account? Use Bug Report in the app's menu and Send to MeshageBot instead.
   - type: input
     id: version
     attributes:
